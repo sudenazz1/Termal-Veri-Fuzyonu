@@ -28,7 +28,7 @@ Literatürdeki mevcut çalışmalar genellikle yalnızca görüntü işleme ile 
 
 ## 📊 Eğitim Süreci ve Sonuçlar
 
-![Training Curves](images/training-curves.png/png)
+![Training Curves](prediction-result (1).png/png)
 
 *Eğitim sürecinde Loss optimizasyonu, IoU skoru ve Global Piksel Doğruluğu metrikleri. Model, Dr. Seda Balta Kaç'ın hedeflediği %90 doğruluk eşiğini geçmiştir.*
 
@@ -36,7 +36,7 @@ Literatürdeki mevcut çalışmalar genellikle yalnızca görüntü işleme ile 
 
 ## 🖼️ Örnek Tahmin Sonucu
 
-![Prediction Result](images/prediction-result.png/png)
+![Prediction Result](prediction-result (2).png/png)
 
 *Soldan sağa: Termal girdi görüntüsü — Uzman tarafından işaretlenmiş Ground Truth — AI tahmini (IoU: 0.480) — Termal overlay görselleştirme.*
 
