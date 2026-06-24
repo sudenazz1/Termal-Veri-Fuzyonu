@@ -1,0 +1,13 @@
+# Sanal ortamlar ve önbellek dosyaları
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Devasa veri dosyaları
+*.npz
+data/
+TBBR_dataset/
+
+# Eğer modelin (.keras) 100 MB'tan büyükse aşağıdaki satırın başındaki '#' işaretini kaldır:
+# *.keras
